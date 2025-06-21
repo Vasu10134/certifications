@@ -1,7 +1,15 @@
-# README
+# 📜 Certifications & Achievements
+Welcome to my certifications repository — a centralized hub showcasing my verified skills, coding profiles, and developer journey. This repo reflects my continuous learning, practical experience, and dedication to software development & cloud technologies.
+---
 
-This repository contains a comprehensive collection of my achievements, coding profiles, certifications, and programming things. It serves as a portfolio that highlights my journey as a student in computer science, focusing on my skills in data structures and algorithms. 
+## 🎓 Certifications
+Here are the official certifications I’ve earned across cloud, programming, and database systems:
 
-In this file, you will find links to my coding profiles on various platforms, showcasing my problem-solving capabilities and continuous learning. Additionally, I have included details of relevant certifications and links that demonstrate my proficiency in software development.
-
-Feel free to explore my profiles and accomplishments to get a sense of my skills and dedication to the field of programming.
+| Certification Title                        | Provider             | Domain              |
+|--------------------------------------------|----------------------|---------------------|
+| AWS Certified Cloud Practitioner           | Amazon Web Services  | Cloud Computing     |
+| Microsoft Azure Fundamentals               | Microsoft            | Cloud Computing     |
+| Database Professional Certification        | HackerRank           | Databases / SQL     |
+| AWS Virtual Simulation                     | Amazon Web Services  | Cloud + Simulation  |
+| Parabit C++ Programming Certification      | Parabit Technologies | Programming (C++)   |
+|-----------------------------------------------------------------------------------------|
