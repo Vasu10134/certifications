@@ -12,4 +12,4 @@ Here are the official certifications I’ve earned across cloud, programming, an
 | Database Professional Certification        | HackerRank           | Databases / SQL     |
 | AWS Virtual Simulation                     | Amazon Web Services  | Cloud + Simulation  |
 | Parabit C++ Programming Certification      | Parabit Technologies | Programming (C++)   |
-|-----------------------------------------------------------------------------------------|
+
